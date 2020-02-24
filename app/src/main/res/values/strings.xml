@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lab 4 Milestone 1</string>
+    <string name="app_name">NonUIThread</string>
+    <string name="button_start">START</string>
+    <string name="button_stop">STOP</string>
 </resources>
